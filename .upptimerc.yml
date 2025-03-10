@@ -16,8 +16,8 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/ecosuite/status-page/master/assets/ecosuite.svg
   name: Ecosuite Status
-  introTitle: "**Ecosuite Status** is the status page for Ecosuite."
-  introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/ecosuite/status-page). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  # introTitle: "**Ecosuite Status** is the status page for Ecosuite."
+  # introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/ecosuite/status-page). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
